@@ -2,7 +2,7 @@
 name: Infrastructure Update
 about: Template for the generation of tasks that are neither of type "Bug Report" nor of type "New Feature".
 title: --/IF-XXX - Descriptive Title
-labels: ''
+labels: ["Infrastruture", "Unassigned Level"]
 assignees: ''
 
 ---

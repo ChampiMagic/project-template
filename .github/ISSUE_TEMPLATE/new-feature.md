@@ -2,7 +2,7 @@
 name: New Feature
 about: Template used to generate tasks of type "Feature".
 title: --/FT-XXX - Descriptive Title
-labels: ''
+labels: ["Feature", "Unassigned Level"]
 assignees: ''
 
 ---

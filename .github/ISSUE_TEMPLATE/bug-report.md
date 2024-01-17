@@ -2,7 +2,7 @@
 name: Bug Report
 about: Template used to generate tasks of type "Bug Report".
 title: ML/BR-XXX - Descriptive title
-labels: ''
+labels: ["BUG", "Unassigned Level"]
 assignees: ''
 
 ---
