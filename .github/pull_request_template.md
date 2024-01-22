@@ -1,27 +1,18 @@
----
-name: Pull Request Template
-about: Template used to generate new PRs.
-title: "PR: Issue Code Name"
-labels: ""
-assignees: '@me'
----
+# Mileston PR
+*(If it is not a milestone PR, delete this section)*
 
-
-## Description
-
-Briefly describe the purpose of this pull request.
-
-## Changes Made
-
-Provide details of the changes you made in this pull request.
+## Mention Your Issue Here *
+*(use the "#" sign)*
 
 ## Screenshots
+*(If applicable, otherwise delete this section) Include screenshots or images to facilitate the reviewers' understanding of the visual changes.*
 
-(If applicable) Include screenshots or images to help reviewers understand the visual changes.
+## Checklist *
+- [ ] Remove any superfluous code, unnecessary comments or test logs.
+- [ ] Successfully launch the application on a physical device and verify that no errors have occurred.
+- [ ] In case of modifications to the user interface (UI), I guarantee that the changes made presents a suitable appearance in various resolutions.
+- [ ] This PR includes only those changes necessary to address the corresponding issue.
 
-## Checklist
 
-- [ ] I have tested this code.
-- [ ] I have build an Production APK/IPA file and tested that all is working.
-- [ ] I have followed the coding style guidelines.
-- [ ] I have tested in a physical device (production APK/IPA file).
+
+
